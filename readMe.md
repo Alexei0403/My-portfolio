@@ -46,14 +46,6 @@ If you want to contribute to the project development by requesting new features,
 
 ## 🚀 About Me
 
-I am a Moroccan full-time freelance front-end developer. who specializes in creating dynamic and beautiful web pages. please check 👉 [My Portfolio Website](https://eljaouadi.online).
+I am a Moroccan full-time freelance front-end developer. who specializes in creating dynamic and beautiful web pages. please check 👉 [My Portfolio Website](https://my-portfolio-9wx1tntww-alexs-projects-0206e38f.vercel.app/).
 
 ## Contact Me
-
-<a href = 'https://www.linkedin.com/in/eljaouadi'>
-  <img width = '32px' align= 'center' src="https://github.com/Jaouadi7/Jaouadi7/blob/main/linkedin.png"/>
-</a> 
-<a href = 'https://web.facebook.com/Eljaouadi7/'>
-  <img width = '32px' align= 'center' src="https://github.com/Jaouadi7/Jaouadi7/blob/main/facebook%20(1).png"/>
-</a>
-i am an idiot
