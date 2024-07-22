@@ -1,6 +1,8 @@
-# Eljaouadi Multi-language Profolio Website ( React Version )
+<!-- @format -->
 
-is a fully responsive React Portfolio website designed and developed by [Mohamed A. Eljaouadi](https://eljaouadi.online), the profolio is built with [Bulma](https://bulma.io), [React](https://reactjs.org) and use [Vite](https://vitejs.dev/) as a Frontend Building Tool .
+# ALex Multi-language Profolio Website ( React Version )
+
+is a fully responsive React Portfolio website designed and developed by [Alex](https://eljaouadi.online), the profolio is built with [Bulma](https://bulma.io), [React](https://reactjs.org) and use [Vite](https://vitejs.dev/) as a Frontend Building Tool .
 
 ## 📷 Screenshots
 
@@ -36,7 +38,7 @@ If you've found an issue or a bug, you can report it in the issues section of th
 - steps to reproduce
 - Already tried fixes (if relevant)
 
-You can also report an issue by [contact me](mailto:contact@eljaouadi.online).
+You can also report an issue by [contact me](maryinkself@gmail.com).
 
 ## 🗨️ Discussions (feature requests)
 
