@@ -56,6 +56,3 @@ I am a Moroccan full-time freelance front-end developer. who specializes in crea
 <a href = 'https://web.facebook.com/Eljaouadi7/'>
   <img width = '32px' align= 'center' src="https://github.com/Jaouadi7/Jaouadi7/blob/main/facebook%20(1).png"/>
 </a>
-<a href = 'https://wa.me/00212621058205'>
-  <img width = '32px' align= 'center' src="https://github.com/Jaouadi7/Jaouadi7/blob/main/whatsapp.png"/>
-</a>
